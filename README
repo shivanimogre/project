@@ -1,0 +1,11 @@
+" Medical Store Management System"
+
+MIS : 141508008
+Name : Shivani Shekhar Mogre
+
+	Medical Store Management System project is implemented in 'C' language.In this project you can keep details of customer , suppliers and medicine. You can view the report and billing information also. You can add,edit, delete and search the record also.This Project contain
+1. Supplier Info
+2.Customer Info
+3.Medicine
+4.Bill
+
